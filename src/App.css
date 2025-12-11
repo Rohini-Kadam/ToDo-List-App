@@ -1,0 +1,32 @@
+body {
+  background-image: url('./Images/backg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+/* strike through completed text */
+.strikeThrough {
+  text-decoration: line-through;
+  color: gray;
+}
+
+/* optional spacing and font */
+body {
+  background-color: #f8f9fa;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 100%;
+}
+
+/* center title */
+h2 {
+  font-weight: bold;
+}
+
+/* list item styling */
+.list-group-item {
+  font-size: 18px;
+}
