@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -15,12 +16,10 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 ## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
+# If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
 # ToDo-List-App
+
 A simple and interactive Todo List Application built using React Hooks. The app allows users to add tasks, mark them as completed, edit tasks in real-time, and delete them. It showcases essential React concepts like useState, dynamic rendering, conditional UI, and list manipulation.
->>>>>>> 0fb39088a8e2051548b068135548717fbf1eee85
-=======
-# ToDo-List-App
-A simple and interactive Todo List Application built using React Hooks. The app allows users to add tasks, mark them as completed, edit tasks in real-time, and delete them. It showcases essential React concepts like useState, dynamic rendering, conditional UI, and list manipulation.
->>>>>>> ddb37022d667f2ba39aead9489e45fa4ecdcf1a0
+
+> > > > > > > # 0fb39088a8e2051548b068135548717fbf1eee85
