@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # React + Vite
 
@@ -21,5 +22,3 @@ The React Compiler is not enabled on this template because of its impact on dev 
 # ToDo-List-App
 
 A simple and interactive Todo List Application built using React Hooks. The app allows users to add tasks, mark them as completed, edit tasks in real-time, and delete them. It showcases essential React concepts like useState, dynamic rendering, conditional UI, and list manipulation.
-
-> > > > > > > # 0fb39088a8e2051548b068135548717fbf1eee85
